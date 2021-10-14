@@ -18,10 +18,10 @@ html,body {
     color: #F8ECDE;
     font-size: 16px;
     line-height: 120%;
-    background-color:#33333D;
+    background-color: #ff6600;
     font-weight: 300;
     font-family: 'Noto Sans KR', sans-serif;
-    border: 1px solid #41414E;
+    border: 1px solid  #ff6600;
 }
 
 .grid-container{
