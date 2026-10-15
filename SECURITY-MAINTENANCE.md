@@ -1,4 +1,4 @@
-# Security maintenance — 2026-10-14
+# Security maintenance — 2026-10-15
 
 External links explicitly isolate the opened tab; the page sends no referrer.
 
